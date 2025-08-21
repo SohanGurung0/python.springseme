@@ -1,0 +1,8 @@
+Nike Air Max,Nike,44,120.00,International
+Adidas Ultraboost,Adidas,21,150.00,International
+Converse Chuck Taylor,Converse,25,80.00,Domestic
+Vans Old Skool,Vans,40,90.00,International
+New Balance 990,New Balance,20,180.00,Domestic
+Puma Suede Classic,Puma,35,75.00,International
+Reebok Classic,Reebok,15,85.00,Domestic
+Jordan 1 Retro,Jordan,10,200.00,International

